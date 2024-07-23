@@ -1,4 +1,4 @@
-Kristian	
-Germany	
+Gianluca C	
+Australia	
 Meta Front-End course
 
